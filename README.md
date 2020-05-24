@@ -7,6 +7,8 @@ The goal of this project is to predict which individuals are most likely to conv
 ## File Description
 
 - A Descriptive Jupyter Notebook
+link to github repository:
+https://github.com/gullayeshwantkumarruler/final-project
 
 ## Results of the analysis
 
